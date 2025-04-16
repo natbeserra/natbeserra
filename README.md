@@ -5,9 +5,9 @@ Claro! Aqui está um exemplo de como você pode editar seu README do GitHub para
 
 ### Sobre mim
 
-- 👩‍🎓 Tenho 27 anos e estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.
-- 💻 Aprendi Python, Java, SQL, e bancos de dados.
-- 📚 Atualmente, estou aprendendo a usar o Visual Studio Code.
+- 👩‍🎓 Tenho 27 anos e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.
+- 💻 Aprendi Python, PHP, Java, SQL, e bancos de dados.
+- 📚 Gosto de usar o Visual Studio Code para programar CSS, HTML e PHP, para desenvolvimento web.
 - 🌟 Meus pronomes são ela/dela.
 
 ### Tecnologias e Ferramentas
