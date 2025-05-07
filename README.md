@@ -21,7 +21,7 @@ Claro! Aqui está um exemplo de como você pode editar seu README do GitHub para
 ### Contato
 
 - [LinkedIn](https://www.linkedin.com/in/nathalia-m-404020235/) 
-- [GitHub](https://github.com/seu-usuario) 
+- [GitHub](https://github.com/natbeserra) 
 
 Sinta-se à vontade para entrar em contato ou conferir meus projetos!
 ```
