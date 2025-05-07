@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV2cGtvNGFlaXkyYXY3Y3V3cGlkb2k3b2txZTRxemZvaGl6NGRiNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="60px"/>
 
   <h1 style="color: #D6336C;">Olá, eu sou a Nathalia! 👩🏾‍💻</h1>
-  <p><em>Desenvolvedora web apaixonada por transformar ideias em código, com criatividade e um toque de pink 💖</em></p>
+  <p><em>Desenvolvedora web apaixonada por transformar ideias em código, com criatividade  💖</em></p>
 
 
 ---
