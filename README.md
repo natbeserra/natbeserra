@@ -6,8 +6,6 @@
   <h1 style="color: #D6336C;">Olá, eu sou a Nathalia! 👩🏾‍💻</h1>
   <p><em>Desenvolvedora web apaixonada por transformar ideias em código, com criatividade e um toque de pink 💖</em></p>
 
-  <img src="https://github.com/natbeserra/natbeserra/blob/main/nathalia-ilustrada.png?raw=true" width="180px" style="border-radius: 50%; border: 3px solid #D6336C; margin-top: 15px;" alt="Ilustração da Nathalia">
-</div>
 
 ---
 
