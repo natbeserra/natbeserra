@@ -1,28 +1,49 @@
-Claro! Aqui está um exemplo de como você pode editar seu README do GitHub para refletir suas informações:
+<h1 align="center">Olá, eu sou a Nathalia! 👩🏾‍💻</h1>
 
-```markdown
-# Olá, eu sou a Nathalia! 👋
+<p align="center">
+  <img src="blob:https://web.whatsapp.com/8f16bd4d-96f0-4ee0-a834-49cf862bd6ea" />
+</p>
 
-### Sobre mim
+<p align="center">
+  <em>Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.</em>
+</p>
 
-- 👩‍🎓 Tenho 27 anos e estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas.
-- 💻 Aprendi Python, PHP, Java, SQL, e bancos de dados.
-- 📚 Gosto de usar o Visual Studio Code para programar CSS, HTML e PHP, para desenvolvimento web.
-- 🌟 Meus pronomes são ela/dela.
+---
 
-### Tecnologias e Ferramentas
+### 👩🏾‍🦱 Sobre mim
 
-- Python
-- Java
-- SQL
-- Bancos de Dados
-- Visual Studio Code
+- 🎓 Tenho 27 anos e estou no último semestre de **Análise e Desenvolvimento de Sistemas**.
+- 💻 Gosto de desenvolver **aplicações web com PHP, HTML, CSS e JavaScript**.
+- 🔍 Atualmente estudando **APIs, CRUD, e boas práticas em desenvolvimento**.
+- 🌱 Aprendendo sobre: **sistemas com Composer, frameworks e Git para versionamento.**
 
-### Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/nathalia-m-404020235/) 
-- [GitHub](https://github.com/natbeserra) 
+### 🛠️ Tecnologias e Ferramentas
 
-Sinta-se à vontade para entrar em contato ou conferir meus projetos!
-```
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
+</p>
 
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nathalia-m-404020235/)
+- 💻 [GitHub](https://github.com/natbeserra)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natbeserra&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
